@@ -1,0 +1,40 @@
+c:\users\lukii\documents\visual studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\bin\Debug\CapsNumScroll_Lock.exe.config
+c:\users\lukii\documents\visual studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\bin\Debug\CapsNumScroll_Lock.exe
+c:\users\lukii\documents\visual studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\bin\Debug\CapsNumScroll_Lock.pdb
+c:\users\lukii\documents\visual studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\CapsNumScroll_Lock.csprojResolveAssemblyReference.cache
+c:\users\lukii\documents\visual studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\MainWindow.baml
+c:\users\lukii\documents\visual studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\MainWindow.g.cs
+c:\users\lukii\documents\visual studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\App.g.cs
+c:\users\lukii\documents\visual studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\CapsNumScroll_Lock_MarkupCompile.cache
+c:\users\lukii\documents\visual studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\CapsNumScroll_Lock.g.resources
+c:\users\lukii\documents\visual studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\CapsNumScroll_Lock.Properties.Resources.resources
+c:\users\lukii\documents\visual studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\CapsNumScroll_Lock.csproj.GenerateResource.Cache
+c:\users\lukii\documents\visual studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\CapsNumScroll_Lock.exe
+c:\users\lukii\documents\visual studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\CapsNumScroll_Lock.pdb
+c:\users\lukii\documents\visual studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+c:\users\lukii\documents\visual studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+c:\users\lukii\documents\visual studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\NotifyIcon.baml
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\NotifyIcon.g.cs
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lukii\Documents\Visual Studio 2013\Projects\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\CapsNumScroll_Lock_MarkupCompile.lref
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\bin\Debug\CapsNumScroll_Lock.exe.config
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\CapsNumScroll_Lock.exe
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\CapsNumScroll_Lock.pdb
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\bin\Debug\CapsNumScroll_Lock.exe
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\bin\Debug\CapsNumScroll_Lock.pdb
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\bin\Debug\Hardcodet.Wpf.TaskbarNotification.dll
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\bin\Debug\Hardcodet.Wpf.TaskbarNotification.pdb
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\bin\Debug\Hardcodet.Wpf.TaskbarNotification.xml
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\CapsNumScroll_Lock.csprojResolveAssemblyReference.cache
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\NotifyIcon.baml
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\MainWindow.g.cs
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\NotifyIcon.g.cs
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\App.g.cs
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\CapsNumScroll_Lock_MarkupCompile.cache
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\CapsNumScroll_Lock_MarkupCompile.lref
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\MainWindow.baml
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\CapsNumScroll_Lock.g.resources
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\CapsNumScroll_Lock.Properties.Resources.resources
+C:\Users\Lukii\Desktop\CapsNumScroll_Lock\CapsNumScroll_Lock\obj\Debug\CapsNumScroll_Lock.csproj.GenerateResource.Cache
